@@ -15,7 +15,7 @@ Main Screen :
 
 <img src="https://github.com/AnuragJaiswal9548/KRATIN_PROJECT/assets/98201910/7c7d84d7-dd99-449b-b0cd-31fb474fb516" width="200" height="400" />
 
-If you tap on infection(did you know) you get health science facts: 
+If you tap on facts(did you know) you get health science facts: 
 
 <img src="https://github.com/AnuragJaiswal9548/KRATIN_PROJECT/assets/98201910/f7d0af70-0900-47ef-adf6-e35ef333d76f" width="200" height="400" />
 
