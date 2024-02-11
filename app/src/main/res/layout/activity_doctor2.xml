@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Doctor2">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/call"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        />
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_marginTop="5dp"
+        app:cardCornerRadius="10dp"
+        android:layout_height="50dp">
+        <TextView
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="5dp"
+            android:id="@+id/t1"
+            android:text="Dr.Varinder Clinic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <ImageView
+            android:layout_marginStart="4dp"
+            android:layout_marginTop="25dp"
+            android:src="@drawable/img_10"
+            android:layout_width="20dp"
+            android:layout_height="20dp"/>
+        <TextView
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="07411665200" />
+
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_marginTop="5dp"
+        app:cardCornerRadius="10dp"
+        android:layout_height="50dp">
+        <TextView
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="5dp"
+            android:text="Gandhi Hospital"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <ImageView
+            android:layout_marginStart="4dp"
+            android:layout_marginTop="25dp"
+            android:src="@drawable/img_10"
+            android:layout_width="20dp"
+            android:layout_height="20dp"/>
+        <TextView
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="0875665200" />
+
+    </androidx.cardview.widget.CardView>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_marginTop="5dp"
+        app:cardCornerRadius="10dp"
+        android:layout_height="50dp">
+        <TextView
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="5dp"
+            android:text="Ryan Hospital"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <ImageView
+            android:layout_marginStart="4dp"
+            android:layout_marginTop="25dp"
+            android:src="@drawable/img_10"
+            android:layout_width="20dp"
+            android:layout_height="20dp"/>
+        <TextView
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="25dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="0934665200" />
+
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

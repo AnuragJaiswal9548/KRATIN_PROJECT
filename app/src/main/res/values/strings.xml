@@ -1,0 +1,131 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">KRATIN_PROJECT</string>
+
+    <string name="t1">
+        1.Dull, aching pain in the head \n
+        2.Pressure or tightness sensation in the forehead or temples\n
+        3.Sensitivity to light or sound\n
+        4.Nausea or vomiting\n
+        5.Difficulty concentrating or focusing\n
+        6.Tension in the neck or shoulders\n
+        7.Scalp tenderness\n
+        8.Visual disturbances, such as blurry vision or seeing spots\n
+
+    </string>
+    <string name="t2">
+        1.Stay hydrated\n
+        2.Maintain regular sleep patterns\n
+        3.Manage stress\n
+        4.Maintain good posture\n
+        5.Avoid trigger foods\n
+        6.Exercise regularly\n
+        7.Practice good ergonomics\n
+        8.Manage medications carefully\n
+        9.Seek professional help\n
+    </string>
+
+
+    <string name="t3">
+        1.Toothache\n
+        2.Tooth Sensitivity\n
+        3.Visible Holes or Pits\n
+        4.White Spots\n
+        5.Bad Breath\n
+        6.Pain when Biting or Chewing\n
+        7.Gum Swelling or Recession\n
+    </string>
+    <string name="t4">
+        1.Maintain Good Oral Hygiene\n
+        2.Regular Dental Checkups\n
+        3.Limit Sugary and Acidic Foods\n
+        4.Drink Water\n
+        5.Chew Sugar-Free Gum\n
+        6.Avoid Smoking and Tobacco Products\n
+        7.Follow Dentist Recommendations\n
+    </string>
+    <string name="t5">
+        1.Pain in one or more joints is the primary symptom. The pain can range from mild to severe and may be constant or intermittent.\n
+        2.Swelling or inflammation around the affected joints is often present.\n
+        3.Weakness or instability in the joints may accompany pain,especially during weight-bearing activities.\n
+        4.Chronic joint pain can be exhausting and may lead to feelings of fatigue or decreased energy levels.\n
+        5.Pain and stiffness in the joints can interfere with daily activities such as walking, climbing stairs, or gripping objects.\n
+    </string>
+    <string name="t6">
+        1.Maintain a Healthy Weight\n
+        2.Exercise Regularly\n
+        3.Warm-Up and Cool Down\n
+        4.Use Proper Body Mechanics\n
+        5.Avoid Overuse\n
+        6.Maintain Proper Posture\n
+        7.Eat a Balanced Diet\n
+        8.Stay Hydrated\n
+    </string>
+    <string name="t7">
+        1.Abdominal Pain\n
+        2.Nausea\n
+        3.Vomiting\n
+        4.Gas\n
+        5.Indigestion\n
+        6.Diarrhea\n
+        7.Constipation\n
+        8.Loss of Appetite\n
+        9.Fatigue\n
+    </string>
+    <string name="t8">
+        1.Eat a Balanced Diet\n
+        2.Hydrate Adequately\n
+        3.Chew Food Thoroughly\n
+        4.Eat Slowly\n
+        5.Limit Alcohol Consumption\n
+        6.Manage Stress\n
+        7.Avoid Trigger Foods\n
+        8.Exercise Regularly\n
+        9.Stay Hygienic with Food Handling\n
+    </string>
+
+    <string name="t9">
+        1.Fever\n
+        2.Fatigue\n
+        3.Swelling\n
+        4.Redness and Warmth\n
+        5.Coughing\n
+        6.Sore Throat\n
+        7.Nausea and Vomiting\n
+        8.Skin Changes\n
+        9.Difficulty Breathing\n
+    </string>
+    <string name="t10">
+        1.Hand Hygiene\n
+        2.Use Hand Sanitizer\n
+        3.Cover Your Mouth and Nose\n
+        4.Practice Respiratory Hygiene\n
+        5.Maintain Social Distancing\n
+        6.Avoid Close Contact with Sick Individuals\n
+        7.Stay Updated on Vaccinations\n
+        8.Boost Your Immune System\n
+    </string>
+    <string name="t11">
+        1.The scent of apples can ease claustrophobia.
+    </string>
+    <string name="t12">
+        An apple a day can keep your claustrophobia away. According to Alan Hirsch, MD, of the Smell and Taste Treatment and Research Center in Chicago, smelling a green apple can change your perception of space, making rooms feel larger than they really are. Hirsch conducted a 1995 experiment on the subject—and during this study, he also found that cucumbers have a similar effect, while the smell of barbecue smoke has the opposite effect.
+    </string>
+    <string name="t13">
+        1.Anxiety can make bad smells even worse.
+    </string>
+    <string name="t14">
+        Speaking of your nose, a 2013 study published in The Journal of Neuroscience examined the way certain emotions affect your sense of smell. After exposing subjects to anxiety-inducing images like car accidents and war, researchers found that neutral scents became unpleasant and bad smells became even worse.
+    </string>
+    <string name="t15">
+        1.Eating eggs improves your reflexes.
+    </string>
+    <string name="t16">
+        If you want to be able to respond more quickly, you can start by having an omelette for breakfast. Eggs contain an amino acid called tyrosine, which the body synthesizes into norepinephrine and dopamine, compounds that increase energy and alertness and improve mood
+    </string>
+    <string name="t17">
+        1.Oatmeal helps fight depression.
+    </string>
+    <string name="t18">
+        People experiencing depression and insomnia have a lack of serotonin, a hormone synthesized from the amino acid tryptophan. So, eating foods high in tryptophan—like oatmeal, eggs, chicken, and peanuts—can help regulate mood and sleep, according to a 2016 study published in the journal Nutrients.
+    </string>
+</resources>
